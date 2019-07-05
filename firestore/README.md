@@ -6,7 +6,7 @@ This sample demonstrates how to use [Google Cloud Firestore](https://firebase.go
 
 Run the following command to clone the Github repository:
 
-    git clone https://github.com/ryanmats/gcp-hackathon-demos.git
+    git clone https://github.com/kudaravalligopi/FridayFun_F2_Season01_Episode01.git
 
 Change directory to the sample code location:
 
