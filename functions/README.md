@@ -14,7 +14,7 @@ Enable the Vision API. Go to the [Google Cloud Platform Console](https://console
 
 Run the following command to clone the Github repository:
 
-    git clone https://github.com/ryanmats/gcp-hackathon-demos.git
+    git clone https://github.com/kudaravalligopi/FridayFun_F2_Season01_Episode01.git
 
 Change directory to the sample code location:
 
