@@ -22,7 +22,7 @@ Run the following command to clone the Github repository:
 
 Change directory to the sample code location:
 
-    cd gcp-hackathon-demos/language
+    cd FridayFun_F2_S01_E01/language
 
 ## Authentication
 
