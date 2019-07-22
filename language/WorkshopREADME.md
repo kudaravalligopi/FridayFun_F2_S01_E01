@@ -20,11 +20,11 @@ In the Google Cloud Console, there should be a small Cloud Shell launch button t
 
 Run the following command to clone the Github repository:
 
-    git clone https://github.com/ryanmats/gcp-hackathon-demos.git
+    git clone https://github.com/kudaravalligopi/FridayFun_F2_Season01_Episode01.git
 
 Change directory to the sample code location:
 
-    cd gcp-hackathon-demos/language
+    cd FridayFun_F2_S01_E01/language
 
 ## Authentication
 
